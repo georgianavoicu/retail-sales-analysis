@@ -41,7 +41,7 @@ The analysis was divided into three main areas:
 - Used to compare customer, product, category, and regional performance such as: customer, regional, product and category sales performance;
 
 ### Business Analysis
-- Focused on identifying patterns that could be relevant from a business perspective. This included: high-volume and low-revenue products, discount impact, loyalty-tier preferences, regional category performance, average price variance relative to the base cost and estimated product profitability.
+- Focused on identifying patterns that could be relevant from a business perspective. This included: high-volume and low-revenue products, discount impact, loyalty-tier preferences, regional category performance and estimated product profitability.
 
 ## 7.Data Assumptions
 - `Products.base_price` was treated as the product acquisition cost for the profitability analysis.
